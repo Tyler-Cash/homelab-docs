@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Tyler\'s Homelab'
+copyright = '2022, Tyler Cash'
+author = 'Tyler Cash'
 
 release = '0.1'
 version = '0.1.0'

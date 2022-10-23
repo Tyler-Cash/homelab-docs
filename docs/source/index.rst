@@ -6,7 +6,7 @@ Currently it's a k8s cluster with 3 masters and 3 nodes. The platform uses gitop
 all of the manifests using ArgoCD and the creation of the VMs in Proxmox and initial cluster bootstrapping
 is automated by Ansible scripts.
 
-Check out the :User Docs:`Getting Started` section if you're looking to use my services.
+Check out the :user:`Getting Started` section if you're looking to use my services.
 Otherwise for architecture/design docs refer to... (TODO)
 
 .. note::

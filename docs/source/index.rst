@@ -12,10 +12,12 @@ Otherwise for architecture/design docs refer to... (TODO)
 .. note::
 
    This project is under active development and is not a production service.
-   I take lots of short cuts here which I wouldn't do professionally. So please keep that in mind.
+   
+   Some things may be a bit janky, I have much lower requirements at home.
 
 Contents
 --------
 
 .. toctree::
+
    user

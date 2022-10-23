@@ -7,6 +7,7 @@ all of the manifests using ArgoCD and the creation of the VMs in Proxmox and ini
 is automated by Ansible scripts.
 
 Check out the :user:`Getting Started` section if you're looking to use my services.
+
 Otherwise for architecture/design docs refer to... (TODO)
 
 .. note::

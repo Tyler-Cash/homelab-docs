@@ -10,7 +10,9 @@ You'll need an account to use any of my services. To create one, you should have
 
 Go to this page and fill in your information, then confirm your email.
 
-Once you have an account you should have access to the below services
+Once you have an account you should have access to the below services.
+
+Use your email and password to log in.
 
 .. _public_services:
 

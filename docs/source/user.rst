@@ -11,18 +11,16 @@ Go to this page and fill in your information, then confirm your email.
 
 Once you have an account you should have access to the below services
 
+.. _public_services:
+
 Public Services
 ------------
 
-------------
   Name         URL  
 =============  ====================================
 Jellyfin       https://jellyfin.k8s.tylercash.dev/
 Authentik      https://authentik.k8s.tylercash.dev/
 =============  ====================================
-
-.. image:: your-image.png
-    :alt: A description of this image
 
 .. autosummary::
    :toctree: generated

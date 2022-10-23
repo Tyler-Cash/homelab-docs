@@ -14,6 +14,14 @@ Once you have an account you should have access to the below services.
 
 Use your email and password to log in.
 
+.. _maintenance_windows:
+
+Maintenance Windows
+------------
+Auto patching is configured to occur 2AM - 9AM, each weekday. If a patch is rolled out the service will be done for 5-10 minutes
+
+If you think something is down, refer to the `status page <https://status.k8s.tylercash.dev/>` linked below
+
 .. _public_services:
 
 Public Services
@@ -29,3 +37,5 @@ Public Services
      - https://jellyfin.k8s.tylercash.dev/
    * - Authentik
      - https://authentik.k8s.tylercash.dev/
+   * - Status Page
+     - https://status.k8s.tylercash.dev/

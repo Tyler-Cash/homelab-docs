@@ -1,5 +1,6 @@
 User Documentation
-===
+==================
+
 .. _create_your_account:
 
 Create your account

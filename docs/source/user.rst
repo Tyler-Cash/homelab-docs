@@ -21,8 +21,3 @@ Public Services
 Jellyfin       https://jellyfin.k8s.tylercash.dev/
 Authentik      https://authentik.k8s.tylercash.dev/
 =============  ====================================
-
-.. autosummary::
-   :toctree: generated
-
-   Tyler's Homelab

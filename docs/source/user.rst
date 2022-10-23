@@ -17,9 +17,13 @@ Once you have an account you should have access to the below services
 Public Services
 ------------
 
-=============  ====================================
-  Name         URL  
-=============  ====================================
-Jellyfin       https://jellyfin.k8s.tylercash.dev/
-Authentik      https://authentik.k8s.tylercash.dev/
-=============  ====================================
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Service
+     - URL
+   * - Jellyfin
+     - https://jellyfin.k8s.tylercash.dev/
+   * - Authentik
+     - https://authentik.k8s.tylercash.dev/

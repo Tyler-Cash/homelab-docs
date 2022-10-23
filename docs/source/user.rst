@@ -17,7 +17,7 @@ Once you have an account you should have access to the below services
 Public Services
 ------------
 
-===================================================
+=============  =============
   Name         URL  
 =============  ====================================
 Jellyfin       https://jellyfin.k8s.tylercash.dev/

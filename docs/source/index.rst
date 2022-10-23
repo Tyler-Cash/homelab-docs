@@ -1,5 +1,5 @@
 Welcome to Tyler's Homelab docs!
-===================================
+================================
 
 My homelab is a place for me to try interesting pieces of technology. 
 Currently it's a k8s cluster with 3 masters and 3 nodes. The platform uses gitops to deploy

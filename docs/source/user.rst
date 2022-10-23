@@ -20,7 +20,7 @@ Maintenance Windows
 ------------
 Auto patching is configured to occur 2AM - 9AM, each weekday. If a patch is rolled out the service will be done for 5-10 minutes
 
-If you think something is down, refer to the `status page <https://status.k8s.tylercash.dev/>` linked below
+If you think something is down, refer to the `status page <https://status.k8s.tylercash.dev/>`_ linked below
 
 .. _public_services:
 

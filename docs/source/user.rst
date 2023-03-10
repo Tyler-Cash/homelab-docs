@@ -37,5 +37,5 @@ Public Services
      - https://jellyfin.k8s.tylercash.dev/
    * - Authentik
      - https://authentik.k8s.tylercash.dev/
-   * - Status Page
-     - https://status.k8s.tylercash.dev/
+   * - Health Page
+     - https://health.k8s.tylercash.dev/
